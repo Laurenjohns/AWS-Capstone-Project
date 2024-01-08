@@ -102,7 +102,7 @@ return render_template('data.html', info=info)
 
 ### AWS CloudWatch
 
-Health Checks monitoring container cpu/memory utilization using to ensure usage stays below 80%. If usage increases above 80% we'll consider increasing Fargate instance size or adding more instances. Also monitoring the number of active containers. Our app has two, so we're alerted when we have fewer than two instances which will indicate a potential issue that needs to be addressed. 
+Health Checks monitoring container cpu/memory utilization ensures usage stays below 80%. If usage increases above 80% we'll consider increasing Fargate instance size or adding more instances. Also monitoring the number of active containers. Our app has two, so we're alerted when we have fewer than two instances which will indicate a potential issue that needs to be addressed. 
 
 ---
 
