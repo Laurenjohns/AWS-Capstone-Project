@@ -13,9 +13,6 @@ Table of Contents
 - [AWS CloudWatch](#aws-cloudwatch)
   
 ---
-Tools: AWS Application Load Balancer, Docker Containers, and Flask Applications. 
-
----
 
 ### AWS CDK 
 Building the architecture via code. 
