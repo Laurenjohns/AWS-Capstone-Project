@@ -3,8 +3,9 @@
 
 Project Developers: Lauren Johnson, Arbaaz Asim, Chris Hornick, and Nick Davis.
 
----
 Project Overview: Users will engage with the Flask application by downloading it and inputting their city data. The python code will dynamically parse the data to present real time weather updates directly on their web browser. 
+
+---
 
 Table of Contents
 - [AWS CDK](#aws-cdk)
